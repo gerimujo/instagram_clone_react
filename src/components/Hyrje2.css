@@ -1,0 +1,166 @@
+#imghyrje{
+    width:600px;
+}
+.hyrje2{margin-top: 30px;
+    margin-left: 20px;
+    width:350px;
+    height: 450px;
+    border: 1px grey solid;
+}
+.cont{
+    display: flex;
+    align-content: center;
+}
+#instagram{
+    margin-top: 50px;
+    margin-left: 70px;
+    width:200px;
+}
+#sing{
+   
+    display: flex;
+    width:250px;
+    text-align: center;
+   margin-left: 50px;
+   font-weight: bolder;
+   color: grey;
+   
+}
+#loginin{
+    margin-left: 40px;
+    color:white;
+    width:270px;
+    height:33px;
+    border: 0px black solid;
+    background-color: #0095F6;
+}
+#singwithfacebook p{
+  
+    margin-left: 60px;
+    margin-top: 10px;
+}
+#or3{
+  margin-left: 40px;
+ 
+}
+#or4{
+    position: relative;
+    left:167px;
+    top:-33px;
+
+}
+#regfrom input{
+    width:260px;
+    height:38px;
+    margin-bottom: 5px;
+
+}
+#regfrom{
+    margin-left: 43px;
+}
+.regbottom{
+    font-size: 12px;
+    width:280px;
+    position: relative;
+    top:-20px;
+    left:30px;
+}
+
+
+#regfrom{
+    position:relative;
+    top:-30px;
+    
+}
+.regbottom pre{
+    font-size: 12px;
+    position: relative;
+    left:185px;
+    top:-16px;
+    color: #0095F6;
+}
+.bysingup{
+    font-size: 12px;
+    width:280px;
+    margin-left:30px ;
+    text-align: center;
+    margin-top: -45px;
+}
+#sigupp{
+    margin-left: 40px;
+    width:270px;
+    height:33px;
+    color:white;
+    border:0px black solid;
+ /*   background: #0095F6;*/
+ /*background-color: #85c5f0;*/
+}
+.X{
+    width:30px;
+    border-radius: 50%;
+    height:30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border:3px red solid;
+}
+.x1{
+    margin-top: 15px;
+    color: red;
+}
+#X11{
+    position: absolute;
+ top:280px;
+    margin-left: 265px;
+}
+#X12{
+    position: absolute;
+    top:323px;
+    margin-left: 265px;
+}
+#X13{
+    position: absolute;
+    top:365px;
+    margin-left: 265px;
+}
+#X14{
+    position: absolute;
+    top:410px;
+    margin-left: 225px;
+}
+#Sow1{
+    position: absolute;
+    top:235px;
+    margin-left: 262px;
+
+}
+.logininst{
+    width:350px;
+    height: 70px;
+    border: 1px grey solid;
+    position: relative;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logininst p{
+    color:  #0095F6;
+    position: relative;
+    bottom:-7px;
+}
+#loginwithfacebook{
+    margin-left: 100px;
+    margin-top: -30px;
+    color:rgb(11, 43, 223);
+}
+#forgotpassword{
+    font-size: 15px;
+    margin-left: 110px;
+}
+#err{
+    margin-left: 40px;
+    width:300px;
+   color:red;
+   text-align: center;
+}

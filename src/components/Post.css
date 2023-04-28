@@ -1,0 +1,50 @@
+.post1{
+    height:600px;
+    width:470px;
+    border:2px black solid;
+    margin-bottom: 20px;
+}
+.profilpostfoto{
+    margin-top: 5px;
+    width:33px;
+    height: 33px;
+    border-radius: 50%;
+    align-content: center;
+}
+.postheader{
+  /*  border:1px black solid;*/
+    display: flex;
+    height:55px;
+}
+.postheadername{
+    margin-top: 6px;
+    margin-left: 4px;
+    font-weight: bolder;
+}
+.permbajtjapost{
+    overflow: hidden;
+    height: 460px;
+    width: 470px;
+   
+}
+#postfooterlike{
+  
+    width:465px;
+}
+.imgpostpermbajtje{
+    height: 455px;
+    width: 465px;
+    background-color: black;
+}
+.div1{
+    display: flex;
+}
+.namefotter{
+    font-weight: bolder;
+    margin-right: 30px;
+}
+#contposthomepage{
+    position:absolute;
+    left:220px;
+    top:170px;
+}

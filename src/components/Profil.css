@@ -1,0 +1,266 @@
+.imgprofilhap{
+    width:150px;
+   /* height:150px;
+    border-radius: 50%;*/
+ z-index: 2;
+   
+}
+.profilcont{
+    position: absolute;
+    left:73px;
+    width:1135px;
+    height:700px;
+  
+}
+.usrnameprofil{
+    width:223px;
+    overflow: hidden;
+    font-weight: 400;
+    font-size: 20px;
+}
+.profilemrimban{
+    width:470px;
+   
+    display: flex; 
+    position: absolute;
+    left:420px;
+    top:30px;
+}
+.profilemrimban button{
+    height: 35px;
+    margin-left: 12px;
+}
+.sett{
+    width:40px;
+    height:40px;
+    margin-left:5px ;
+}
+.storycont1{
+    width:880px;
+    height:110px;
+ 
+    position: absolute;
+    left:140px;
+    top:250px;
+    overflow: hidden;
+}
+.storycontreal1 img{
+   
+    width:82px;
+    height:82px;
+    border-radius: 50px;
+  
+    margin-left: 10px;
+   
+}
+.storycontreal1{
+ 
+    display: flex;
+    position: relative;
+   
+  
+
+}
+.storycontreal1 p{
+  
+    width:60px;
+    overflow: hidden;
+    margin-left: 18px;
+}
+.next11{
+    position:relative;
+    top:-70px;
+    left:850px;
+    width:26px;
+    height:26px;
+  background-color: black;
+    border-radius: 50%;
+}
+.statisposhtfoll{
+  
+    display: flex;
+    align-items: center;
+    width:400px;
+    position: absolute;
+    left:400px;
+    top:80px;
+}
+.statisposhtfoll p{
+    margin-left: 20px;
+}
+#textarea11{
+    position: absolute;
+    top:140px;
+    left:430px;
+    border:0px black solid;
+    width:300px;
+    height:100px;
+    resize: none;
+}
+#textarea11:focus{
+    position: absolute;
+    top:140px;
+    left:400px;
+    outline: 0px;
+   
+    width:300px;
+    height:100px;
+}
+.postimeprofiliim1 img{
+    width:320px;
+    height:320px;
+    margin:2px;
+   
+}
+ .postimeprofiliim1  .elpostime{
+    width:320px;
+    height:320px;
+    margin:2px;
+    display: inline;
+ }
+.postimeprofiliim1 video{
+    width:320px;
+    height:320px;
+    margin:2px;
+   
+}
+.postimeprofiliim1{
+    margin-top: 450px;
+    position: absolute;
+    left:90px;
+    width: 1000px;
+  
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+#navbartefqaja{
+    position:absolute;
+    width:1135px;
+  
+    left:-0px;
+   top:390px;
+}
+.postimehap{
+    position:flex;
+    display: block;
+    width:100%;
+    height:800px;
+    top:0px;
+    left:0px;
+    background-color: black;
+    z-index: 1099;
+}
+.blackground{
+    width:100%;
+    height:1000px;
+    background-color: black;
+    position: fixed;
+    top:0px;
+    left:0px;
+  
+    opacity: 0.3;
+}
+.contimgopen{
+    width:1065px;
+    height:555px;
+    background-color: white;
+   position: fixed;
+   top:28px;
+   left:75px;
+   z-index: 10;
+   display:flex;
+}
+.contimgopen1{
+    border:4px black solid;
+    width:570px;
+  
+}
+.photoopentext{
+    
+    width:500px;
+}
+.contimgopen1 img{
+    width:570px;
+    height:555px;
+}
+.contimgopen1 video{
+    width:570px;
+    height:553px;
+}
+.openphototext1{
+    height:65px;
+ 
+    display: flex;
+    align-items: center;
+}
+.openphototext1 img{
+    width:35px;
+    height:35px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.openphototext1 p{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.openphototext1 button{
+    margin-left: 50px;
+}
+#pikadelet{
+    margin-left: 300px;
+
+}
+#deleteplace{
+    width:400px;
+    height:295px;
+   
+    z-index: 50;
+  
+    position: fixed;
+    top:155px;
+    left:400px;
+    background-color: white;
+}
+#deleteplace div{
+   
+    height:50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#deleteplace div p{
+   margin-top: 8px;
+   font-weight: 500;
+   font-weight: 500;
+}
+.textphotopen3{
+    display: flex;
+align-items: center;
+}
+.textphotopen3 img{
+    width:35px;
+    height:35px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.textphotopen3 p{
+    margin-left: 15px;
+    margin-top: 25px;
+}
+#likebar1{
+    width:470px;
+    margin-left: 10px;
+}
+.divprofil12{
+    position: absolute;
+    left: 235px;
+    top:50px;
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    overflow: hidden;
+    border:3px black solid ;
+    z-index: 10;
+}

@@ -1,0 +1,207 @@
+.contmadhinbox {
+  position: absolute;
+  left: 75px;
+  width: 1200px;
+  height: 600px;
+
+  background-color: rgb(226, 226, 224);
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+#continbox1 {
+  width: 930px;
+  margin-top: 20px;
+  height: 570px;
+  margin-left: -77px;
+
+  display: flex;
+}
+.chatboxlist {
+  width: 350px;
+  border: 1px grey solid;
+  height: 570px;
+  background-color: white;
+}
+.messages12 {
+  width: 350px;
+}
+.sendmessageheaderuser {
+  display: flex;
+  border: 1px grey solid;
+  height: 60px;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+}
+.sendmessageheaderuser img {
+  width: 50px;
+  height: 50px;
+  margin-right: -100px;
+  margin-left: 30px;
+}
+.sendmessageheaderuser p {
+  font-weight: 600;
+  margin-top: 10px;
+}
+.imgelemnet {
+  margin-top: 6px;
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+.messagechatelement {
+  height: 65px;
+  display: flex;
+}
+.messagechatelement p {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.inboxx {
+  width: 580px;
+  border: 1px grey solid;
+  background-color: white;
+}
+.inboxx img {
+  width: 560px;
+  margin-top: 140px;
+}
+.inboxx button {
+  margin-left: 210px;
+}
+.messages {
+  width: 580px;
+  background-color: white;
+  border: 1px grey solid;
+}
+#sendboxtype {
+  position: absolute;
+  top: 525px;
+  left: 460px;
+  width: 550px;
+  height: 45px;
+  display: flex;
+  border: 1px grey solid;
+
+  background-color: white;
+}
+#img112 {
+  margin-left: 27px;
+}
+#sendboxtype input {
+  width: 390px;
+  height: 30px;
+  margin-left: 9px;
+  margin-top: 5px;
+  border: 0px black solid;
+}
+#sendboxtype input:focus {
+  outline: 0px;
+}
+#sendboxtype p {
+  margin-left: 0px;
+  font-weight: 500;
+  margin-top: 45px;
+  color: rgb(9, 199, 232);
+}
+.headersendmes1 {
+  height: 60px;
+  width: 580px;
+  background-color: white;
+  border: 1px grey solid;
+  display: flex;
+}
+.headersendmes1 p {
+  margin-left: 8px;
+  margin-top: 10px;
+  font-size: 19px;
+  font-weight: 600;
+}
+#senmesimgheader {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+#senmesimgheader1 {
+  height: 40px;
+  margin-left: 200px;
+}
+.messageplaceshow {
+  width: 575px;
+  height: 430px;
+  border: 1px grey solid;
+  overflow: auto;
+  background-color: white;
+}
+#mesele1 {
+  background-color: rgb(237, 236, 236);
+
+  width: fit-content;
+
+  word-break: break-all;
+  max-width: 240px;
+}
+.imgeleposht {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  align-self: flex-end;
+  margin-bottom: 15px;
+  margin-left: 13px;
+}
+.messelecont {
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+}
+#img45 {
+  height: 40px;
+}
+.backg12 {
+  background-color: black;
+  position: fixed;
+  width: 100%;
+  opacity: 0.4;
+  height: 700px;
+}
+#ops {
+  position: fixed;
+  top: 100px;
+  left: 400px;
+  width: 400px;
+  height: 400px;
+  background-color: white;
+}
+.sendmessinboxheader img {
+  width: 370px;
+}
+.sendmessinboxheader {
+  border-bottom: 1px black solid;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.searchbarinbox {
+  border-bottom: 1px black solid;
+  height: 55px;
+  display: flex;
+}
+.searchbarinbox p {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.searchbarinbox input {
+  height: 30px;
+  width: 300px;
+  margin-top: 12px;
+  margin-left: 10px;
+  border: 0px black solid;
+}
+.searchbarinbox input:focus {
+  outline: 0px;
+}

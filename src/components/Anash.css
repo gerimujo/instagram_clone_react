@@ -1,0 +1,239 @@
+.ctm{
+    z-index: 800;
+}
+.anash{
+    position: fixed;
+    height:610px;
+   display: flex;
+   flex-flow: column;
+   justify-content: center;
+   align-items: center;
+   overflow: hidden;
+    border:1px grey solid;
+    width:75px; 
+    z-index: 800; 
+}
+#imglogo{
+    width:50px;
+    position: relative;
+    top:-17px;
+   
+  
+}
+.imgnavbar{
+    width:65px;
+    z-index: 0;
+}
+.navbarlogo{
+   
+    position: relative;
+    bottom:-42px;
+}
+.posthedh{
+    width:100%;
+    height:630px;
+    background-color: black;
+    opacity: 0.3;
+    z-index: 999;
+    position: fixed;
+    top:0px;
+    left:0px;
+}
+#vendikuhedh{
+   position: fixed;
+   top:90px;
+   z-index: 999;
+   left:410px;
+    width:390px;
+    height:440px;
+    border:1px black solid;
+    background-color: white;
+}
+.headerhedhpost{
+    border-bottom:1px black solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+    color:black;
+}
+.headerhedhpost p{
+    margin-top: 10px;
+}
+#Dragphotos{
+    width:385px;
+    margin-top: 85px;
+}
+#backimg{
+   height:20px;
+  
+   margin-top:13px;
+   margin-left:20px;
+}
+#Crop{
+    margin-left: 110px;
+    margin-top:13px;
+    font-size: 20px;
+}
+#next{
+    margin-left: 120px;
+    margin-top:13px;
+    color:rgb(6, 155, 218);
+}
+.header22{
+    display: flex;
+}
+#imgpastaj{
+    width:387px;
+    height:375px;
+    border: 2px black solid;
+}
+
+#hendhnrfund{
+    position: fixed;
+    top:90px;
+    z-index: 999;
+    left:235px;
+     width:737px;
+     height:440px;
+     border:1px black solid;
+     background-color: white;
+
+}
+.nefundfooter{
+    height:47px;
+    border-bottom: 2px black solid;
+    display: flex;
+}
+.createtefund1{
+    margin-left: 260px;
+    margin-top: 13px;
+}
+.Sharefund1{
+    margin-left: 260px;
+    margin-top: 13px;
+    color:rgb(6, 155, 218);
+}
+.footterfund2{
+    display: flex;
+}
+#imgpastaj1{
+    width:380px;
+    height:390px;
+    
+}
+.postcaption1{
+    width:380px;
+    height:390px;
+   
+}
+#captionprofilphoto{
+    width:35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#captionpostname{
+    margin-left: 60px;
+    margin-top: -30px;
+   
+}
+#textarea1{
+    width:360px;
+    height:300px;
+    resize: none;
+    border: 0px black solid;
+}
+#textarea1:focus{
+    border-inline: 0px;
+}
+#inputfile1{
+    margin-left: 30px;
+    
+}
+#searchbox{
+    background-color: white;
+    z-index: 999;
+    width:400px;
+    height:610px;
+    border:2px black solid;
+  position: fixed;
+  top:0px;
+  left:0px;
+  
+  margin-left: 75px;
+}
+.searchboxheader{
+    height:130px;
+    border-bottom: 2px black solid;
+}
+#ser11{
+    margin-top: 22px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#searchbox111{
+    height:40px;
+    width:360px;
+    margin-left: 20px;
+}
+.result1{
+    margin-top: 10px;
+    height: 440px;
+    width:400px;
+  
+}
+.result2{
+    width:400px;
+    height: 53px;
+  
+    display: flex;
+    margin-bottom: 8px;
+}
+.idresphotop{
+    height:53px;
+    width:53px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.nameres{
+    margin-left: 5px;
+    margin-top: 9px;
+}
+.resname1{
+  position: relative;
+  top:-50px;
+  left:70px;
+    margin-top: 22px;
+}
+#pr11{
+    position: absolute;
+    width:35px;
+    height:35px;
+    top:510px;
+    left:20px;
+   
+    border-radius: 50%;
+}
+#logoutbar{
+    width:240px;
+    height:310px;
+    border: 2px black solid;
+    position: fixed;
+    top:240px;
+    left:10px;
+    z-index: 1005;
+    background-color: white;
+}
+.logoutelement{
+    border-bottom: 1px black solid;
+    height: 36px;
+  
+}
+.logoutelement p{
+    margin-left: 10px;
+    margin-top: 8px;
+    font-weight: 600;
+}

@@ -1,0 +1,35 @@
+.contexp{
+    position: absolute;  
+    width:1200px;
+ 
+    top:0px;
+    left:75px;
+}
+.postimeprofiliim img{
+    width:320px;
+    height:320px;
+    margin:2px;
+   
+}
+ .postimeprofiliim  .elpostime{
+    width:320px;
+    height:320px;
+    margin:2px;
+    display: inline;
+ }
+.postimeprofiliim video{
+    width:320px;
+    height:320px;
+    margin:2px;
+   
+}
+.postimeprofiliim{
+    margin-top: 50px;
+    position: absolute;
+    left:90px;
+    width: 1000px;
+  
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
